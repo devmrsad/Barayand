@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="61.707" height="61.707" viewBox="0 0 61.707 61.707">
-  <g id="ROI-icon" transform="translate(-1187.862 -1171.611)">
-    <rect id="Rectangle_76" data-name="Rectangle 76" width="61.707" height="61.707" rx="15" transform="translate(1187.862 1171.611)" fill="#2581f9"/>
-    <path id="graph-up-arrow" d="M0,0H1.618V24.27h24.27v1.618H0ZM16.18,5.663a.809.809,0,0,1,.809-.809h6.472a.809.809,0,0,1,.809.809v6.472a.809.809,0,0,1-1.618,0V7.928l-5.846,7.147a.809.809,0,0,1-1.2.06l-4.186-4.186L5.508,19.083A.809.809,0,0,1,4.2,18.132l6.472-8.9a.809.809,0,0,1,1.226-.1l4.221,4.223,5.634-6.886H16.989A.809.809,0,0,1,16.18,5.663Z" transform="translate(1205.794 1189.875)" fill-rule="evenodd"/>
-  </g>
-</svg>

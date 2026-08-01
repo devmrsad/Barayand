@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="43" height="43" viewBox="0 0 43 43">
-  <g id="send-icon" transform="translate(-42 -882)">
-    <rect id="Rectangle_6" data-name="Rectangle 6" width="43" height="43" rx="21.5" transform="translate(42 882)" fill="#2581f9"/>
-    <g id="arrow-up" transform="translate(56.832 899.659)">
-      <line id="Line_4" data-name="Line 4" x1="6.938" y2="6.938" transform="translate(0)" fill="none" stroke="#1c1c1c" stroke-linecap="round" stroke-width="4"/>
-      <line id="Line_5" data-name="Line 5" x2="6.938" y2="6.938" transform="translate(6.938)" fill="none" stroke="#1c1c1c" stroke-linecap="round" stroke-width="4"/>
-    </g>
-  </g>
-</svg>
