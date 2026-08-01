@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58" height="56.588" viewBox="0 0 58 56.588">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="58" height="56.588" fill="none"/>
+    </clipPath>
+    <filter id="Line_68" x="5" y="17.588" width="48" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feFlood flood-opacity="0.631"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="home-icon" clip-path="url(#clip-path)">
+    <g id="home-icon-2" data-name="home-icon" transform="translate(-1612 -44)">
+      <g id="Group_16" data-name="Group 16" transform="translate(1612 44)">
+        <path id="Polygon_1" data-name="Polygon 1" d="M25.4,2.7a6,6,0,0,1,7.2,0l22,16.519a6,6,0,0,1,2.121,6.6L48.244,52.8A6,6,0,0,1,42.52,57H15.48a6,6,0,0,1-5.724-4.2L1.273,25.821a6,6,0,0,1,2.121-6.6Z" fill="#5b5b5b"/>
+        <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Line_68)">
+          <line id="Line_68-2" data-name="Line 68" y2="8" transform="translate(29 38.59)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="6"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

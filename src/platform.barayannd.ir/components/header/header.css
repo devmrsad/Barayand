@@ -1,0 +1,129 @@
+.top-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 98%;
+    height: 16%;
+    box-shadow: inset 0 0 20px rgba(134, 134, 134, 0.3);
+    border-radius: 20px;
+}
+.USDT-price-holder{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.usdt-price-container{
+    direction: ltr;
+    width: 60%;
+    height: 60%;
+    border-radius: 50vw;
+    border: solid 1px var(--txt-2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-left: 20px;
+}
+.usdt-price-container > hr {
+    width: 1px;
+    height: 50%;
+    border-color: var(--bg-1);
+}
+.usdt-price-container > img {
+    width: 40px;
+}
+.usdt-price-container > p, .usdt-price-container > h4 {
+    font-family: 'Segoe UI';
+    font-size: 1.1vw;
+}
+.usdt-price-container > p{
+    padding: 4px 12px;
+    background-color: rgba(0, 255, 17, 0.38);
+    color: #00FF11;
+    border-radius: 50vw;
+}
+.BARAYANND-title-holder{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding: 0px 30px;
+}
+.BARAYANND-title-holder > h1 {
+    font-family: AbiVraiable;
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
+.moblie-menu-align{
+    width: 50%;
+    display: none;
+    justify-content: left;
+    align-items: center;
+    height: 100%;
+}
+.menu-wrapper{
+    width: 30%;
+    height: auto;
+    padding: 10px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 6px;
+
+}
+.menu-wrapper > hr {
+    width: 30%;
+    border: solid 1px white;
+}
+.ai-cta-mobile > img {
+    width: 30px;
+    height: 30px;
+}
+.wrapper-items-mobile{
+    display: none;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4px;
+    position: fixed;
+    top: 4%;
+    left: 13%;
+    background-color: rgba(0, 0, 0, 0.02);
+    backdrop-filter: blur(8px);
+    border:solid 1px var(--txt-3);
+    padding: 10px 16px;
+    border-radius: 18px;
+}
+.wrapper-items-mobile.opened{
+    display: flex;
+}
+.wrapper-items-mobile > a {
+    list-style: none;
+    padding: 4px;
+    text-align: right;
+    width: 100%;
+    color: var(--clr-4);
+    font-family: VazirLight;
+    text-decoration: none;
+}
+.wrapper-items-mobile > a.active{
+    color: var(--clr-1);
+}
+
+
+@media (max-width: 960px) {
+    .USDT-price-holder{
+        display: none;
+    }
+    .top-header{
+        height: 10%;
+    }
+    .moblie-menu-align{
+        display: flex;
+    }
+
+}

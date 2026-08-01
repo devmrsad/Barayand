@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="51" height="66.5" viewBox="0 0 51 66.5">
+  <defs>
+    <filter id="Line_68" x="1.5" y="10.5" width="48" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feFlood flood-opacity="0.631"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_16" data-name="Group 16" transform="translate(-1612 -44)">
+    <path id="Polygon_1" data-name="Polygon 1" d="M22,2.518a6,6,0,0,1,7.005,0l18.428,13.25a6,6,0,0,1,2.2,6.743l-7.013,21.36A6,6,0,0,1,36.915,48H14.085a6,6,0,0,1-5.7-4.128L1.371,22.511a6,6,0,0,1,2.2-6.743Z" transform="translate(1612 44)" fill="#5b5b5b"/>
+    <g transform="matrix(1, 0, 0, 1, 1612, 44)" filter="url(#Line_68)">
+      <line id="Line_68-2" data-name="Line 68" y2="8" transform="translate(25.5 31.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="6"/>
+    </g>
+  </g>
+</svg>

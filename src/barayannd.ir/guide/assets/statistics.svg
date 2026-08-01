@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="77" height="66" viewBox="0 0 77 66">
+  <g id="statistics" transform="translate(-1627 -599)">
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="77" height="66" rx="17" transform="translate(1627 599)" fill="#d1d1d1"/>
+    <path id="pie-chart" d="M13.125,1.781a12.25,12.25,0,0,0-8.383,20.24l8.383-8.384Zm1.75,0V13.125H26.219A12.252,12.252,0,0,0,14.875,1.781ZM26.219,14.875H14.362L5.98,23.257a12.25,12.25,0,0,0,20.239-8.383ZM0,14A14,14,0,1,1,14,28,14,14,0,0,1,0,14Z" transform="translate(1651.569 617.879)" fill="#171616" stroke="#000" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>

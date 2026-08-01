@@ -1,0 +1,59 @@
+/* لینک شده به تمامی صفحات */
+@import url('fonts/font.css');
+
+:root {
+    --bg-1: rgb(34, 34, 34);
+    --bg-2: #333;
+    --bg-3: #444;
+    --clr-1: #2581F9;
+    --clr-2: #97F2D9;
+    --clr-3: #7863AA;
+    --clr-4: #FFF;
+    --clr-5: #494949;
+    --txt-1: #FFF;
+    --txt-2: #AAA;
+    --txt-3: #404040;
+    --max-width: 1170px;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-size: 16px !important;
+}
+
+body {
+    background: var(--bg-1);
+    direction: rtl;
+    overflow-y:auto;
+    overflow-x: auto;
+    width: 100% !important;
+    /* اطمینان از پشتیبانی شدن واحد ها در تمامی مرورگر ها */
+    min-height: 100vh;
+    min-height: 100svh;
+    min-height: 100dvh;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--txt-1);
+    margin-bottom: 0px;
+}
+
+p {
+    font-size: .95rem;
+    color: var(--txt-2);
+    margin-bottom: 0px;
+}
+
+button {
+    padding: 1rem 2.25rem;
+    font-weight: 800;
+    background: var(--clr-1);
+    border: 0;
+    border-radius: 12px;
+}

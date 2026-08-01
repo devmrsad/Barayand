@@ -1,0 +1,87 @@
+@import url(../../fonts/font.css);
+.market-container{
+    width: 100%;
+    height: 94%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    padding: 10px;
+    overflow-y: auto;
+    scrollbar-width: none;
+
+}
+.market-prices-table-header{
+    width: 94%;
+    height: 14%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding:20px 26px;
+    border-bottom: solid 1px var(--bg-3);
+}
+.market-prices-table-header > h3{
+    flex-grow: 1;
+    text-align: right;
+    font-family: VazirLight;
+}
+.market-price-card{
+    width: 90%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+
+}
+.market-price-card > h4{
+    flex-grow: 1;
+    font-family: VazirLight;
+    text-align: right;
+}
+#price{
+    color: var(--clr-1);
+    width: 1%;
+    text-align: right;
+}
+.currency-preveiw{
+    width: calc(100%/3);
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    gap: 20px;
+}
+.currency-preveiw > h4 {
+    width: 100%;
+    text-align: right;
+    font-family: VazirLight;
+}
+#price_change{
+    flex-grow: 1;
+    text-align: right;
+}
+@media (max-width: 960px) {
+    h4,h3{
+        font-size: 0.7rem;
+    }
+    .currency-preveiw{
+        width: 40%;
+    }
+    .currency-preveiw > h4{
+        font-size: 0.7rem;
+    }
+    .market-price-card{
+        width: 100%;
+    }
+    .market-prices-table-header{
+        width: 100%;
+        padding:10px 16px;
+        height: 10%;
+    }
+    #price_change{
+        text-align: center;
+    }
+    #price{
+        text-align: center;
+        font-size: 0.8rem;
+    }
+}

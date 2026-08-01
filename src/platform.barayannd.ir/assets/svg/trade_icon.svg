@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="66" viewBox="0 0 78 66">
+  <g id="trade_icon" transform="translate(-1627 -808)">
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="78" height="66" rx="27" transform="translate(1627 808)" fill="#d1d1d1"/>
+    <path id="arrow-left-right" d="M1,21.2a.922.922,0,0,0,.922.922h21.74l-5.8,5.8a.923.923,0,0,0,1.305,1.305l7.374-7.374a.922.922,0,0,0,0-1.305l-7.374-7.374a.923.923,0,1,0-1.305,1.305l5.8,5.8H1.922A.922.922,0,0,0,1,21.2ZM26.81,8.3a.922.922,0,0,1-.922.922H4.148l5.8,5.8a.923.923,0,0,1-1.305,1.305L1.27,8.949a.922.922,0,0,1,0-1.305L8.644.27A.923.923,0,1,1,9.949,1.575l-5.8,5.8h21.74A.922.922,0,0,1,26.81,8.3Z" transform="translate(1651.341 828.122)" stroke="#000" stroke-linecap="round" stroke-width="1" fill-rule="evenodd"/>
+  </g>
+</svg>
