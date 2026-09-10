@@ -1,0 +1,16 @@
+{
+  "name": "Barayannd",
+  "version": "1.0.0",
+  "description": "A project to simulate stock/cryptocurrency trading for beginners",
+  "license": "MIT",
+  "author": "Sir Ali & Devmrsad",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+
+  },
+  "dependencies": {
+    "chart.js": "^4.5.1"
+  }
+}
