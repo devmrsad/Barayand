@@ -1,0 +1,32 @@
+@font-face {
+    font-family: AbiVraiable;
+    src: url(./abi/Abi\ Variable.ttf);
+}
+@font-face {
+    font-family: VazirLight;
+    src: url(./Vazir/Vazir-Light-FD.ttf);
+}
+@font-face {
+    font-family: VazirReg;
+    src: url(./Vazir/Vazir-Regular-FD.ttf);
+}
+@font-face {
+    font-family: VazirMedium;
+    src: url(./Vazir/Vazir-Medium-FD.ttf);
+}
+@font-face {
+    font-family: VazirBold;
+    src: url(./Vazir/Vazir-Bold-FD.ttf);
+}
+@font-face {
+    font-family: VazirBlack;
+    src: url(./Vazir/Vazir-Black-FD.ttf);
+}
+@font-face {
+    font-family: DornaRegular;
+    src: url(./doran/DoranFaNum-Regular.ttf)
+}
+@font-face {
+    font-family: DoranClassic-bold;
+    src: url(./doran/DoranClassicDotsFaNum-Bold.ttf)
+}

@@ -1,0 +1,13 @@
+<svg id="gift-ui-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="424" height="424" viewBox="0 0 424 424">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2581f9"/>
+      <stop offset="1" stop-color="#7863aa"/>
+    </linearGradient>
+  </defs>
+  <g id="Rectangle_51" data-name="Rectangle 51" fill="#262626" stroke="#2581f9" stroke-width="1">
+    <rect width="424" height="424" rx="105" stroke="none"/>
+    <rect x="0.5" y="0.5" width="423" height="423" rx="104.5" fill="none"/>
+  </g>
+  <path id="gift-fill" d="M54.334,45.278a45.278,45.278,0,0,1,90.556,0,45.278,45.278,0,1,1,90.556,0v.109a53.744,53.744,0,0,1-.688,8.947h36.911a18.111,18.111,0,0,1,18.111,18.111V90.556a18.111,18.111,0,0,1-18.111,18.111H18.111A18.111,18.111,0,0,1,0,90.556V72.445A18.111,18.111,0,0,1,18.111,54.334H55.022a53.753,53.753,0,0,1-.688-8.947Zm19.343,9.056h53.1V45.278a27.167,27.167,0,1,0-54.334,0,31.481,31.481,0,0,0,.815,7.788,9.453,9.453,0,0,0,.417,1.268Zm89.325,0h53.1a10.147,10.147,0,0,0,.417-1.268,31.483,31.483,0,0,0,.815-7.788,27.167,27.167,0,1,0-54.334,0Zm108.668,72.445V262.614A27.167,27.167,0,0,1,244.5,289.781H163v-163Zm-226.391,163a27.167,27.167,0,0,1-27.167-27.167V126.779H126.779v163Z" transform="translate(67.11 64)" fill="url(#linear-gradient)"/>
+</svg>
