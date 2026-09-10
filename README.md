@@ -41,4 +41,4 @@ npm i
 
 ## Note
 
-This project was developed and maintained within 45 days during the international internet cutoff.
+This project was developed and maintained within 45 days during the international internet cutoff in Iran.
